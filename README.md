@@ -60,5 +60,8 @@ React是关于构造可重用组件的，实际上，使用React你做的仅仅�
 MQTT Topic的设计思路<BR>
     利用消息队列MQTT，打造一款属于自己的IM社交软件,不错的案例分析。<BR>
     http://www.tuicool.com/articles/i2QbUfZ<BR>
+
+
+[安装react-native的android应用和打包apk](http://blog.csdn.net/donyfeng66/article/details/67631852)
     
 
